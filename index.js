@@ -1,4 +1,6 @@
-const farmAnimals = 'cow horse sheep pig chicken';
+const farmAnimals = ['cow, horse, sheep, pig, chicken']
+const {moo, neigh, baa, oink, cluck} = farmAnimals
+cow;
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
